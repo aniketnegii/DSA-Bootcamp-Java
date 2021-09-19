@@ -30,13 +30,13 @@
 - [ ] [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 
 ### Medium
-1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-2. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-3. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-4. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-5. [Jump Game](https://leetcode.com/problems/jump-game/)
-6. [Rotate Array](https://leetcode.com/problems/rotate-array/)
+- [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [ ] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
+- [ ] [Rotate Array](https://leetcode.com/problems/rotate-array/)
 
 ### Hard
-1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
-2. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+- [ ] [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
+- [ ] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
