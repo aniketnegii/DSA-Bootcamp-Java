@@ -23,7 +23,7 @@
 - [ ] [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 - [ ] [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 - [ ] [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 - [ ] [Saddle Point In Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
@@ -33,7 +33,7 @@
 - [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [ ] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [x] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
 - [ ] [Rotate Array](https://leetcode.com/problems/rotate-array/)
 
