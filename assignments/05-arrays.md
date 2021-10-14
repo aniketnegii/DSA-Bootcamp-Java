@@ -35,8 +35,8 @@
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [x] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
-- [ ] [Rotate Array](https://leetcode.com/problems/rotate-array/)
+- [x] [Rotate Array](https://leetcode.com/problems/rotate-array/)
 
 ### Hard
 - [ ] [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
-- [ ] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+- [x] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
